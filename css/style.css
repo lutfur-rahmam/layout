@@ -1,0 +1,22 @@
+
+.header,.hero,.body,.footer,.bar{
+    background-color: #FFAEC9;
+    padding: 10px 0;
+    margin-bottom: 10px;
+    
+    
+}
+.box{
+    min-height: 50px;
+    background-color:#99d9EA;
+    margin:10px;
+    
+}
+.color{
+    background-color: red;
+}
+.btn-custom{
+    border: 1px solid red;
+    background-color: red;
+    color: white;
+} 
